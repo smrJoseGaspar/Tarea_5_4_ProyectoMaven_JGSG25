@@ -11,6 +11,5 @@ package es.gva.edu.sanchezgarcia.jg.tarea54.jgsg25;
 public interface Figura {
     public double calcularArea();
     public double calcularPerimetro();
-            
     
 }
