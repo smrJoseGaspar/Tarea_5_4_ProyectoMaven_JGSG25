@@ -1,0 +1,11 @@
+* TODO TAREAS PENDIENTES DE REALIZAR
+- Creación de un nuevo proyecto Maven con Java.
+- Definición de la interfaz Figura.java.
+- Implementacuón de la clase Cuadrado.java.
+- Implementación de la clase Triangulo.java
+- Implementación de la calse Circulo. java.
+- Creación de un Hito
+* TODO PRUEBAS FUNCIONALES
+- Pruebas de la clase Cuadrado.java.
+- Pruebas de la clase Triangulo.java
+- Pruebas de la calse Circulo. java.
